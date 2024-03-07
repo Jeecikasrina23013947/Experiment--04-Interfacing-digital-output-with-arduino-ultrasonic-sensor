@@ -119,7 +119,7 @@ void loop()
 
 ![robo 4](https://github.com/Jeecikasrina23013947/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/148515300/7e4faa9a-58b0-4149-8bd4-a2eed2404e3f)
 			
-			Average error = sum/ number of readings 
+Average error = sum/ number of readings Average error = (0.07+0.12+0.08+0.07+0.08)/5 = 0.84			
  
 
 ### RESULTS
